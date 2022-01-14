@@ -2,7 +2,7 @@
 
 
 <h1>Mi nombre es Johnhattan Mesa García</h1>
-<h3>Desarrollador Web Full Stack </h3>
+<h2>Desarrollador Web Full Stack </h2>
 
 <h3>Y estas son algunas de las tecnologías que hacen parte del stack en el que me encuentro:</h3>
 
