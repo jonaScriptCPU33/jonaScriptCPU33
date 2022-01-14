@@ -1,4 +1,4 @@
-### <h1>Hola 👋 </h1>
+<h1>Hola 👋 </h1>
 
 
 <h1>Mi nombre es Johnhattan Mesa García</h1>
@@ -8,30 +8,24 @@
 
 <p>
 Principal lenguaje de programación: 
-:point_right: JAVASCRIPT
+:pushpin: JAVASCRIPT
 
 Lenguajes de marcado:
-:white_circle: HTML 
-:white_circle: CSS 
+:point_right: HTML 
+:point_right: CSS 
 </p>
-
-
 
 <h1>En el Back-end</h1>
 
-:white_circle: Node Js 
-:white_circle: Express 
-:white_circle: Sequelize
-:white_circle: PostgreSQL
-
-
+:pushpin: Node Js 
+:pushpin: Express 
+:pushpin: Sequelize
+:pushpin: PostgreSQL
 
 <h1>Para la parte del Front-End:</h1>
-:white_circle: React
-:white_circle: Redux
-
-
+:pushpin: React
+:pushpin: Redux
 
 <h1>Sistemas operativos:</h1>
-:white_circle: Linux
-:white_circle: Windows
+:pushpin: Linux
+:pushpin: Windows
