@@ -1,19 +1,25 @@
 ### Hi there 👋
 
 
-###Hola mi nombre es Johnhattan Mesa 
+Hola mi nombre es Johnhattan Mesa 
 
-###Desrrollador Web Full Stack 
+Desrrollador Web Full Stack 
 
-Here are some ideas to get you started:
+Y estas son algunas de las tecnologías que hacen parte del stack que manejo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Principal lenguaje de programación Javascript 
+Adicional los meta- lenguajes como : HTML y CSS
 
+En el Back-end
+- 🌱 Node Js ...
+- 👯 Express ...
+- 🤔 Sequelize
+- 💬 PostgreSQL
 
+Para la parte del Front-End:
+- 😄 React
+- ⚡  Redux
+
+Sistemas operativos:
+- Linux
+- Windows
