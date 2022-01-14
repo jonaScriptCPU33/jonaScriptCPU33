@@ -8,7 +8,7 @@
 
 <p>
 Principal lenguaje de programación: 
-:white_circle: <h4>Javascript </h4>
+:white_circle:<h4>Javascript </h4>
 
 Lenguajes de marcado:
 :white_circle: HTML 
