@@ -20,9 +20,13 @@ Adicional los meta- lenguajes como : HTML y CSS
 :white_circle: Sequelize
 :white_circle: PostgreSQL
 
+
+
 <h1>Para la parte del Front-End:</h1>
 :white_circle: React
 :white_circle: Redux
+
+
 
 <h1>Sistemas operativos:</h1>
 :white_circle: Linux
