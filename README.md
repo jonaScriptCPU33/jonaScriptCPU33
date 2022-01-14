@@ -18,7 +18,7 @@ Lenguajes de marcado:
 <h1>Bases de datos</h1>
 :pushpin: PostgreSQL
 
-<h1>En el Back-end</h1>
+<h1>Back-end</h1>
 
 :pushpin: Node Js 
 :pushpin: Express 
@@ -26,7 +26,7 @@ Lenguajes de marcado:
 
 
 
-<h1>Para la parte del Front-End:</h1>
+<h1>Front-End:</h1>
 :pushpin: React
 :pushpin: Redux
 
