@@ -4,11 +4,14 @@
 <h1>Mi nombre es Johnhattan Mesa</h1>
 <h3>Desrrollador Web Full Stack </h3>
 
-<h3>Y estas son algunas de las tecnologías que hacen parte del stack que manejo:</h3>
+<h3>Y estas son algunas de las tecnologías que hacen parte del stack en el que me encuentro:</h3>
 
 <p>
-Principal lenguaje de programación Javascript 
-Adicional los meta- lenguajes como : HTML y CSS 
+Principal lenguaje de programación: Javascript 
+
+Lenguajes de marcado:
+:white_circle:HTML 
+:white_circle:CSS 
 </p>
 
 
