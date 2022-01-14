@@ -2,7 +2,7 @@
 <BR>
 <BR>
 <BR>
-<BR>
+
 
 <h1>Mi nombre es Johnhattan Mesa García</h1>
 <h2>Desarrollador Web Full Stack :rocket: </h2>
