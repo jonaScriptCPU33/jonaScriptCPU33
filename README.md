@@ -7,7 +7,8 @@
 <h3>Y estas son algunas de las tecnologías que hacen parte del stack en el que me encuentro:</h3>
 
 <p>
-Principal lenguaje de programación: Javascript 
+Principal lenguaje de programación: 
+:white_circle: <h4>Javascript </h4>
 
 Lenguajes de marcado:
 :white_circle: HTML 
