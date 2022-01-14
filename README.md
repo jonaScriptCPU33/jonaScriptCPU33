@@ -7,18 +7,18 @@
 <h3>Quiero contarte sobre algunas de las tecnologias que he aprendido y lo que por ahora conforma mi stack en el desarrollo web</h3>
 
 <p>
-Principal lenguaje de programación: 
+:nut_and_bolt: Principal lenguaje de programación: 
 :pushpin: JAVASCRIPT
 
-Lenguajes de marcado:
+:nut_and_bolt: Lenguajes de marcado:
 :point_right: HTML 
 :point_right: CSS 
 </p>
 
-<h1>Bases de datos</h1>
+:nut_and_bolt: <h1>Bases de datos</h1>
 :pushpin: PostgreSQL
 
-<h1>Back-end</h1>
+:nut_and_bolt: <h1>Back-end</h1>
 
 :pushpin: Node Js 
 :pushpin: Express 
@@ -26,10 +26,10 @@ Lenguajes de marcado:
 
 
 
-<h1>Front-End:</h1>
+:nut_and_bolt: <h1>Front-End:</h1>
 :pushpin: React
 :pushpin: Redux
 
-<h1>Sistemas operativos:</h1>
+:nut_and_bolt: <h1>Sistemas operativos:</h1>
 :pushpin: Linux
 :pushpin: Windows
