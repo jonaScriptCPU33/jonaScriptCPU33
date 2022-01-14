@@ -1,10 +1,14 @@
 <h1>Hola 👋 </h1>
-
+<BR>
+<BR>
+<BR>
+<BR>
 
 <h1>Mi nombre es Johnhattan Mesa García</h1>
 <h2>Desarrollador Web Full Stack :rocket: </h2>
 
 Quiero contarte sobre algunas de las tecnologias que he aprendido y lo que por ahora conforma mi stack en el desarrollo web
+<BR>
 <BR>
 <BR>
 <BR>
