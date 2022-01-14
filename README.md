@@ -8,18 +8,18 @@ Quiero contarte sobre algunas de las tecnologias que he aprendido y lo que por a
 
 
 
-<h1> Principal lenguaje de programación: </h1>
+<h2> Principal lenguaje de programación: </h2>
 :pushpin: JAVASCRIPT
 
- <h1>Lenguajes de marcado: </h1>
+ <h2>Lenguajes de marcado: </h2>
 :pushpin: HTML 
 :pushpin: CSS 
 
 
-<h1>Bases de datos</h1>
+<h2>Bases de datos</h2>
 :pushpin: PostgreSQL
 
-<h1>Back-end</h1>
+<h2>Back-end</h2>
 
 :pushpin: Node Js 
 :pushpin: Express 
@@ -27,10 +27,10 @@ Quiero contarte sobre algunas de las tecnologias que he aprendido y lo que por a
 
 
 
-<h1>Front-End:</h1>
+<h2>Front-End:</h2>
 :pushpin: React
 :pushpin: Redux
 
-<h1>Sistemas operativos:</h1>
+<h2>Sistemas operativos:</h2>
 :pushpin: Linux
 :pushpin: Windows
