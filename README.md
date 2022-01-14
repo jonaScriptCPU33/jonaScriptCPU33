@@ -14,7 +14,7 @@ Adicional los meta- lenguajes como : HTML y CSS
 
 
 <h1>En el Back-end</h1>
-- 🌱 Node Js 
+/play secret Node Js 
 - 👯 Express 
 - 🤔 Sequelize
 - 💬 PostgreSQL
