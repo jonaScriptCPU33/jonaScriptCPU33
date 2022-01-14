@@ -2,9 +2,9 @@
 
 
 <h1>Mi nombre es Johnhattan Mesa García</h1>
-<h2>Desarrollador Web Full Stack </h2>
+<h2>Desarrollador Web Full Stack :rocket: </h2>
 
-<h3>Quiero contarte sobre algunas de las tecnologias que he aprendido y lo que por ahora :telescope: conforma mi stack en el desarrollo web</h3>
+<h3>Quiero contarte sobre algunas de las tecnologias que he aprendido y lo que por ahora conforma mi stack en el desarrollo web</h3>
 
 <p>
 Principal lenguaje de programación: 
