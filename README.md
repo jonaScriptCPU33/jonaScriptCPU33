@@ -5,7 +5,9 @@
 <h2>Desarrollador Web Full Stack :rocket: </h2>
 
 Quiero contarte sobre algunas de las tecnologias que he aprendido y lo que por ahora conforma mi stack en el desarrollo web
-
+<BR>
+<BR>
+<BR>
 
 
 <h2> Principal lenguaje de programación: </h2>
