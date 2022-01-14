@@ -10,8 +10,8 @@
 Principal lenguaje de programación: Javascript 
 
 Lenguajes de marcado:
-:white_circle:HTML 
-:white_circle:CSS 
+:white_circle: HTML 
+:white_circle: CSS 
 </p>
 
 
