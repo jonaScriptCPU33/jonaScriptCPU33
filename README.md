@@ -15,12 +15,16 @@ Lenguajes de marcado:
 :point_right: CSS 
 </p>
 
+<h1>Bases de datos</h1>
+:pushpin: PostgreSQL
+
 <h1>En el Back-end</h1>
 
 :pushpin: Node Js 
 :pushpin: Express 
 :pushpin: Sequelize
-:pushpin: PostgreSQL
+
+
 
 <h1>Para la parte del Front-End:</h1>
 :pushpin: React
