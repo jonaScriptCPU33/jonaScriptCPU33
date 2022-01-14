@@ -1,7 +1,6 @@
 <h1>Hola 👋 </h1>
 <BR>
 <BR>
-<BR>
 
 
 <h1>Mi nombre es Johnhattan Mesa García</h1>
