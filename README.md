@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-**Hola mi nombre es Johnhattan Mesa **
+#Hola mi nombre es Johnhattan Mesa 
 
-** Desrrollador Web Full Stack 
+#Desrrollador Web Full Stack 
 
 Here are some ideas to get you started:
 
