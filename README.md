@@ -14,18 +14,16 @@ Adicional los meta- lenguajes como : HTML y CSS
 
 
 <h1>En el Back-end</h1>
+
 :heavy_check_mark: Node Js 
-
 :heavy_check_mark: Express 
-
 :heavy_check_mark: Sequelize
-
 :heavy_check_mark: PostgreSQL
 
 <h1>Para la parte del Front-End:</h1>
-- 😄 React
-- ⚡  Redux
+:heavy_check_mark: React
+:heavy_check_mark: Redux
 
 <h1>Sistemas operativos:</h1>
-- Linux
-- Windows
+:heavy_check_mark: Linux
+:heavy_check_mark: Windows
