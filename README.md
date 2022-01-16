@@ -2,15 +2,15 @@
 <h3 align="center">Quiero contarte sobre algunas de las tecnologías que he aprendido y lo que por ahora conforma mi stack en el desarrollo web</h3>
 
 
-- 🔭 Actualmente estoy colaborando en **Proyecto final Soy Henry una e-commerce para una tienda de ropa**
+- 🔭 Actualmente estoy colaborando en **Proyecto final en Soy Henry, una e-commerce para una tienda de ropa**
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 </p>
+
 - :satellite: Linkedin: [https://www.linkedin.com/in/jmesag/](https://www.linkedin.com/in/jmesag/)
 
 - 📫 Como puede contactarme en **jonascript.cpu@gmail.com**
-
 
 
 <h3 align="left">Languages and Tools:</h3>
