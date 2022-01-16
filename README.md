@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Johnhattan Mesa García</h1>
-<h3 align="center">Amo codear, es la mejor forma de superarme cada día</h3>
+<h1 align="center">Hola 👋, Soy Johnhattan Mesa García Full Stack Web Developer</h1>
+<h3 align="center">Quiero contarte sobre algunas de las tecnologías que he aprendido y lo que por ahora conforma mi stack en el desarrollo web</h3>
 
-- 🔭 Actualmente estoy colaborando en **Proyecto final Soy Henry una e-commerce de ropa**
+- 🔭 Actualmente estoy colaborando en **Proyecto final Soy Henry una e-commerce para una tienda de ropa**
 
-- 🌱 Me encuentro estudiando **Typescript**
+- :satellite: Linkedin: [https://www.linkedin.com/in/jmesag/](https://www.linkedin.com/in/jmesag/)
 
 - 📫 Como puede contactarme en **jonascript.cpu@gmail.com**
 
