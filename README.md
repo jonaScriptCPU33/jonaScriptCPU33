@@ -5,6 +5,9 @@
 
 - 🔭 Actualmente estoy colaborando en **Proyecto final en Soy Henry, una e-commerce para una tienda de ropa**
 
+
+https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47903tvghi7hxcma3v70zzxshwbpjoknysguwvrnkp&rid=giphy.gif&ct=g
+
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 </p>
