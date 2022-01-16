@@ -4,7 +4,7 @@
 
 - 🔭 Actualmente estoy colaborando en **Proyecto final Soy Henry una e-commerce para una tienda de ropa**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 </p>
 - :satellite: Linkedin: [https://www.linkedin.com/in/jmesag/](https://www.linkedin.com/in/jmesag/)
