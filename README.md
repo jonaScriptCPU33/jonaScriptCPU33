@@ -3,7 +3,7 @@
 <h3 align="center">Quiero contarte sobre algunas de las tecnologías que he aprendido y lo que por ahora conforma mi stack en el desarrollo web</h3>
 
 
-- 🔭 Actualmente estoy colaborando en **Proyecto final en Soy Henry, una e-commerce para una tienda de ropa. En este proyecto todo colaboramos tanto en labores de FRONTEND como de BACK-END usando JS**
+- 🔭 Actualmente estoy colaborando en **Proyecto final en Soy Henry, una e-commerce para tienda de ropa. En este proyecto todo colaboramos tanto en labores de FRONTEND como de BACK-END usando JS**
 
 
 
