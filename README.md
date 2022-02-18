@@ -3,7 +3,7 @@
 <h3 align="center">Quiero contarte sobre algunas de las tecnologías que he aprendido y lo que por ahora conforma mi stack en el desarrollo web</h3>
 
 
-- 🔭 Trabaje en una Ecommerce de tienda de moda urbana. Esta app fué el proyecto final que presentamos un equipo de 8 alumnos del Bootcamp de Henry,para terminar la cursada como Fullstack Developers
+- 🔭 Mi ultima expriencia fue hasta fue hasta este 10 de febrero donde terminamos un Trabajo, como entrega de proyecto final para el bootcamp en Soy Henry, en una Ecommerce de tienda de moda urbana. Esta app fué el proyecto final que presentamos un equipo de 8 alumnos del Bootcamp de Henry,para terminar la cursada como Fullstack Developers
 
 - Aqui dejo el enlace donde esta terminado el proyecto (https://pffrontend-fafd3.web.app/)
 
