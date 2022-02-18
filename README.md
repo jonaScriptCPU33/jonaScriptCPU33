@@ -5,6 +5,8 @@
 
 - 🔭 Actualmente estoy colaborando en nuestro **Proyecto final en Soy Henry, estamos desarrollando una e-commerce de moda. En este proyecto colaboramos tanto en labores de FRONTEND como de BACK-END, usando JS**
 
+- Proyecto finalizado, aqui dejo el enlace terminado de este proyecto (https://pff rontend-fafd3.web.app/)
+
 
 
 <h3 align="left">Conecta conmigo:</h3>
