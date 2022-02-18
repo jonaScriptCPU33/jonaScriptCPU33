@@ -3,9 +3,9 @@
 <h3 align="center">Quiero contarte sobre algunas de las tecnologías que he aprendido y lo que por ahora conforma mi stack en el desarrollo web</h3>
 
 
-- 🔭 Actualmente estoy colaborando en nuestro **Proyecto final en Soy Henry, estamos desarrollando una e-commerce de moda. En este proyecto colaboramos tanto en labores de FRONTEND como de BACK-END, usando JS**
+- 🔭 Esta app fué el proyecto final que presentó un equipo de 8 alumnos del Bootcamp de Henry,para terminar la cursada como Fullstack Developers
 
-- Proyecto finalizado, aqui dejo el enlace terminado de este proyecto (https://pffrontend-fafd3.web.app/)
+- Aqui dejo el enlace donde esta terminado el proyecto (https://pffrontend-fafd3.web.app/)
 
 
 
