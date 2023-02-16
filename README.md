@@ -3,11 +3,23 @@
 <h3 align="center">Quiero contarte sobre algunas de las tecnologías que he aprendido y lo que por ahora conforma mi stack en el desarrollo web</h3>
 
 
-- 🔭 Mi ultima expriencia fue hasta fue hasta este 10 de febrero donde terminamos un Trabajo, como entrega de proyecto final para el bootcamp en Soy Henry, en una Ecommerce de tienda de moda urbana. Esta app fué el proyecto final que presentamos un equipo de 8 alumnos del Bootcamp de Henry,para terminar la cursada como Fullstack Developers
+- 🔭 Mi ultima expriencia fue hasta fue hasta este 10 de febrero de 2022, donde terminamos un Trabajo, como entrega de proyecto final para el bootcamp en Soy Henry, en una Ecommerce de tienda de moda urbana. Esta app fué el proyecto final que presentamos un equipo de 8 alumnos del Bootcamp de Henry,para terminar la cursada como Fullstack Developers
 
 - Aqui dejo el enlace donde esta terminado el proyecto (https://pffrontend-fafd3.web.app/)
 
 Actualmente estoy terminando un curso de JavaScript avanzado en udemy, como también fortaleciendome con un curso de REACT, ya que me siento mas intresado por la parte de el FRONT-END
+
+Como autodidacta he venido realizando cursos en JS,REACT y Algoritmia para mejorar mis skills. 
+
+Algunos de los proyectos que he venido haciendo para mejorar y actualmente me encuentro activo realizando más:
+
+Proyectos en REACT:
+Página de gits usando ReactJS: https://gitpage-jonascript.netlify.app/
+
+Proyectos con JavaScript Vanilla: 
+Juego de BlackJack: https://blackjackjonascript.netlify.app/
+
+
 
 
 <h3 align="left">Conecta conmigo:</h3>
