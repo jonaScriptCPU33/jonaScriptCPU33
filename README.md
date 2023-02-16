@@ -7,6 +7,7 @@
 
 - Aqui dejo el enlace donde esta terminado el proyecto (https://pffrontend-fafd3.web.app/)
 
+Actualmente estoy terminando un curso de JavaScript avanzado en udemy, como también fortaleciendome con un curso de REACT, ya que me siento mas intresado por la parte de el FRONT-END
 
 
 <h3 align="left">Conecta conmigo:</h3>
