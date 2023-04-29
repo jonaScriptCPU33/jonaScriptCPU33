@@ -8,12 +8,12 @@ A continuación los proyectos que he venido realizando con estas tecnologías.
 
 
 Proyectos con JavaScript Vanilla: 
-Juego de BlackJack: https://blackjackjonascript.netlify.app/
-Página de tares, Todo : https://todo-vanillajs-jonascript.netlify.app/
+- Juego de BlackJack: https://blackjackjonascript.netlify.app/
+- Página de tares, Todo : https://todo-vanillajs-jonascript.netlify.app/
 
 Proyectos en REACT:
-Página de gits usando ReactJS: https://gitpage-jonascript.netlify.app/
-Página de cáracteres de la serie RICK AND MORTY: https://rick-and-morty-wth-react.netlify.app/
+- Página de gits usando ReactJS: https://gitpage-jonascript.netlify.app/
+- Página de cáracteres de la serie RICK AND MORTY: https://rick-and-morty-wth-react.netlify.app/
 
 
 
