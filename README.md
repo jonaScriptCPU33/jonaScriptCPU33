@@ -15,7 +15,8 @@ Proyectos en REACT:
 - Página de gits usando ReactJS: https://gitpage-jonascript.netlify.app/
 - Página de cáracteres de la serie RICK AND MORTY: https://rick-and-morty-wth-react.netlify.app/
 
-
+Proyectos con Typescript & React:
+- App de Tareas : https://tasks-react-ts.netlify.app/
 
 
 
